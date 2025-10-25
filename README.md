@@ -14,6 +14,6 @@ Try it in the Playground:
 ```js
 innumset:x = 5
 if:((x) > 3)
-    op:大きい
+    op:big
 else:
-    op:小さい
+    op:small
